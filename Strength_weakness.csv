@@ -1,0 +1,19 @@
+,Type 1,Strength,Weakness
+0,Bug,"Grass, Dark, Psychic","Fire, Flying, Rock"
+1,Dark,"Ghost, Psychic","Bug, Fairy, Fighting"
+2,Dragon,Dragon,"Dragon, Fairy, Ice"
+3,Electric,"Flying, Water",Ground
+4,Fairy,"Fighting, Dark, Dragon","Poison, Steel"
+5,Fighting,"Dark, Ice, Normal, Rock, Steel","Fairy, Flying, Psychic"
+6,Fire,"Bug, Grass, Ice, Steel","Ground, Rock, Water"
+7,Flying,"Bug, Fighting, Grass","Electric, Ice, Rock"
+8,Ghost,"Ghost, Psychic","Dark, Ghost"
+9,Grass,"Ground, Rock, Water","Bug, Fire, Flying, Ice, Poison"
+10,Ground,"Electric, Fire, Poison, Rock, Steel","Grass, Ice, Water"
+11,Ice,"Dragon, Flying, Grass, Ground","Fighting, Fire, Rock, Steel"
+12,Normal,--,Fighting
+13,Poison,"Fairy, Grass","Ground, Psychic"
+14,Psychic,"Fighting, Poison","Bug, Dark, Ghost"
+15,Rock,"Bug, Fire, Flying, Ice","Fighting, Grass, Ground, Steel, Water"
+16,Steel,"Fairy, Ice, Rock","Fighting, Fire, Ground"
+17,Water,"Fire, Ground, Rock","Electric, Grass"
