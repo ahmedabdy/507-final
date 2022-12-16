@@ -10,3 +10,9 @@ This github will contain files and code needed to run this Pokemon Battle simula
 
 # Interaction
 All files needed to run the .py file are located here. Download all to the same directory. Visual Studio was used.
+4 documents were used for this
+main.py (Where you can play)
+pokemon.csv (has information regarding all of the pokemon name, types, stats, and more
+type_advantage_scarper.py (code used to scrape website and create new csv)
+Strengths_weakness.csv (information scraped regarding pokemon types and weaknesses)
+
